@@ -29,7 +29,7 @@ En este repositorio se encuentra la documentación y los avances del proyecto de
 ### 🔗 Enlaces de informes 
 
 - 📑 [Informe corte 1](./Corte%201/ERP%20Corte%201%20Proyecto%20-%20INGENIERIA%20DE%20SOFTWARE.pdf)
-- 📑 [Informe corte 2](PENDIENTE)
+- 📑 [Informe corte 2](./Corte%202/ERP%20Corte%202%20Proyecto%20-%20INGENIERÍA%20DE%20SOFTWARE%201.pdf)
 
 ### 🔗 Enlaces de interés
 
