@@ -15,6 +15,9 @@ En este repositorio se encuentra la documentación y los avances del proyecto de
 - **Corte 2**:
   - 📄 *Informe de Design Studio (PDF)*
   - 📂 *Formularios LOGT y de tiempo*
+- **Corte 3**:
+  - 📄 *Investigación sobre tecnologías aplicables al sistema (PDF)*
+  - 📂 *Formularios LOGT y de tiempo*
 
 ---
 
