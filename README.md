@@ -18,7 +18,9 @@ En este repositorio se encuentra la documentación y los avances del proyecto de
 - **Corte 3**:
   - 📄 *Investigación sobre tecnologías aplicables al sistema (PDF)*
   - 📂 *Formularios LOGT y de tiempo*
-
+- **Primer Sprint**:
+  - 📄 *Informe del primer sprint proyecto ERP (PDF)*
+  - 📂 *Formularios LOGT y de tiempo*
 ---
 
 ## 🚀 Desarrollo del Proyecto
@@ -33,6 +35,8 @@ En este repositorio se encuentra la documentación y los avances del proyecto de
 
 - 📑 [Informe corte 1](./Corte%201/ERP%20Corte%201%20Proyecto%20-%20INGENIERIA%20DE%20SOFTWARE.pdf)
 - 📑 [Informe corte 2](./Corte%202/ERP%20Corte%202%20Proyecto%20-%20INGENIERÍA%20DE%20SOFTWARE%201.pdf)
+- 📑 [Informe corte 3](./Corte%203/ERP%20Corte%203%20Proyecto%20-%20INGENIERÍA%20DE%20SOFTWARE%201.pdf)
+- 📑 [Informe sprint 1](./Primer%20sprint/Primer%20Sprint%20del%20Proyecto.pdf)
 
 ### 🔗 Enlaces de interés
 
